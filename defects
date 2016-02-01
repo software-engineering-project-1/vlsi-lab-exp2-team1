@@ -1,6 +1,0 @@
-Defects Identified upto 1st Feb 2016
-
-1)It is a monolithic code having single class with no inheritance.
-2)In the codebase it is observed that there are unnecessary codeblocks which are commented that can be removed.
-3)In the (try catch) clauses, some catch clauses are empty.
-4)The codebase is not observed to be modular.
